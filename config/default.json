@@ -1,0 +1,10 @@
+{
+    "JWT": {
+        "SECRET": "secretKeyPOS",
+        "EXPIRED": "9999 years"
+    },
+    "utc": 7,
+    "database_URI": "mongodb+srv://zidan4:aKB6ayWB7ZE7trBQ@server-apps.tzwcg.mongodb.net/test",
+    "database_User": "mongodb+srv://zidan4:aKB6ayWB7ZE7trBQ@server-apps.tzwcg.mongodb.net/xendit"
+}
+

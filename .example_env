@@ -1,0 +1,9 @@
+database_URI=""
+database_User=""
+JWT_SECRET=""
+JWT_EXPIRED=""
+UTC=7
+ROOT_UPLOADS="./public"
+ENCRIPTMETHOD="AES-256-CBC"
+SECRETKEY="fd85b494-aaaa"
+SECRETIV="smslt"
